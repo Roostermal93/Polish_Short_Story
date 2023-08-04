@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "53917596-8bfc-4379-957b-18c16fd8b47e",
+            "collectionId": "Polish",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Polish/Polish_Short_Story/53917596-8bfc-4379-957b-18c16fd8b47e/53917596-8bfc-4379-957b-18c16fd8b47e_pl_Male.mp4"
+        },
+        {
+            "id": "1938f965-1880-49d2-bcd4-70f6b6b2c85a",
+            "collectionId": "Polish",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Polish/Polish_Short_Story/1938f965-1880-49d2-bcd4-70f6b6b2c85a/1938f965-1880-49d2-bcd4-70f6b6b2c85a_pl_Female.mp4"
+        },
+        {
+            "id": "0d88a096-6225-4925-9e59-3adef6e1f64b",
+            "collectionId": "Polish",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Polish/Polish_Short_Story/0d88a096-6225-4925-9e59-3adef6e1f64b/0d88a096-6225-4925-9e59-3adef6e1f64b_pl_Female.mp4"
+        },
+        {
+            "id": "d73fa4d5-ff1d-44eb-adec-f16468d54d2f",
+            "collectionId": "Polish",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Polish/Polish_Short_Story/d73fa4d5-ff1d-44eb-adec-f16468d54d2f/d73fa4d5-ff1d-44eb-adec-f16468d54d2f_pl_Female.mp4"
+        }
+    ]
+}
